@@ -1,0 +1,12 @@
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\bin\Debug\DA_KTLT.exe.config
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\bin\Debug\DA_KTLT.exe
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\bin\Debug\DA_KTLT.pdb
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.Form1.resources
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.Properties.Resources.resources
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.csproj.GenerateResource.Cache
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.exe
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.pdb
+C:\Users\cuber\Desktop\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.csprojResolveAssemblyReference.cache
+F:\DA_KTLT\DA_KTLT\bin\Debug\DA_KTLT.exe.config
+F:\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.exe
+F:\DA_KTLT\DA_KTLT\obj\Debug\DA_KTLT.pdb
